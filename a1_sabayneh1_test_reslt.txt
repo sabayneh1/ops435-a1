@@ -1,0 +1,5 @@
+Please enter your email user id:======================================================================
+Your A1 script file a1_.py is not in the current direcoty
+Please copy this script to the directory that contains your
+A1 script file and run this test script again.
+======================================================================
